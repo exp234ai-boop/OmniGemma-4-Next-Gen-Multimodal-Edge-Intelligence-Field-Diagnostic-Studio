@@ -1,0 +1,6 @@
+{
+  "name": "OmniGemma 4 - Multimodal Edge Intelligence Studio",
+  "description": "Production-grade multimodal diagnostic copilot and edge-to-cloud open-weights benchmark studio powered by Gemma 4 multimodal vision, structured reasoning, and rapid prototyping workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
